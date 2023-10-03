@@ -1,0 +1,1 @@
+mogrify -resize 1024x683! *.jpg
